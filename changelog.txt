@@ -1,2 +1,7 @@
+9/20/2019 Public DEV 2:
++Added preference defaults on first launch
++Added profile framework
+*Lifetime = 0 now works properly
+
 9/19/2019 Public DEV 1:
 +Initial public development build
