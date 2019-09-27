@@ -1,3 +1,7 @@
+9/27/2019 Public DEV 3:
++Added configurable controls
++Added preference reset button
+
 9/20/2019 Public DEV 2:
 +Added preference defaults on first launch
 +Added profile framework

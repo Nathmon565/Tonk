@@ -36,11 +36,12 @@ If you decide you're willing to try out my garbage game and discover one of the 
 ### Future Plans
 - Make Buffs/Debuffs Work
 - Display buffs/debuffs
-- [Configurable Controls](https://www.youtube.com/watch?v=iSxifRKQKAA)
 - Tutorial
+- Singleplayer Campaign?
 - Particles
 - Refined Icons
 - Sounds and Music
 - Ascension (Prestige)
 - Water/Ice/Lava
 - Finish Firing Range Weapon Creation
+- Firing Range AI
