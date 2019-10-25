@@ -1,3 +1,10 @@
+10/25/2019 Public DEV 4:
+*Fix damage numbers
+*Fix exit button
+*Fix wall layering
+*Fix turret/barrel death physics
+*Rework camera functionality
+
 9/27/2019 Public DEV 3:
 +Added configurable controls
 +Added preference reset button
