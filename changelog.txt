@@ -1,3 +1,33 @@
+11/22/2019 Public DEV 5:
++UI framework for profiles and inventory
++Rework firing range
+	+Various firing range targets (some move)
+	+Ground has textures
++Particle effects
+	+Shooting bursts smoke, followed by a plume
+	+Engine smoke on <25% health
+	+Engine fire on <10% health
+	+Parts will smoke for a short amount of time after exploding off
+	+Fireball on death
+	+Fun 'fireworks' on death
++Tanks now flip themselves over
+	+If over 90°, the tank will flip over after 3 seconds if not moving too fast
+*Fix UI layering issues
+*Tracking shots no longer target dead tanks
+*Shots will stay still when they explode
+*Tank destroyer barrel detaches in the correct direction now
+*dead.png is now seamless
+*Adjusted wheel friction
+*Tracks no longer lift the tank when turning
+*Sticky shots no longer stretch wildly when hitting large objects
+*Negative damage shows up as green numbers
+*Fix collision maths
+	*Damage is now only dealt if it drops 10% of its max speed in one frame
+	!The receiving tank in a collision won't take damage
+*Camera is clamped to 90° up and down
+*Weapon explosions stay depending on size, and are animated
+-Remove backend multiplayer (photon)
+
 10/25/2019 Public DEV 4:
 *Fix damage numbers
 *Fix exit button

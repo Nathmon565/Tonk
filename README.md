@@ -8,6 +8,10 @@ There really isn't much going on in this project right now, so don't expect a wh
 ### Bugfixing and testing
 If you decide you're willing to try out my garbage game and discover one of the literally infinite bugs, feel free - but please make sure to check the issues tab before creating a new bug report. I assume it's common etiquette, but who knows. 
 
+## Changelog
+As always, just check changelog.txt to see the latest version.
+__Current version:__ **DEV 5**
+
 ## Main Feature TODO List
 - [X] Tank Generation
 - [X] Basic Camera
