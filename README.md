@@ -10,7 +10,7 @@ If you decide you're willing to try out my garbage game and discover one of the 
 
 ## Changelog
 As always, just check changelog.txt to see the latest version.
-__Current version:__ **DEV 5**
+__Current version:__ **DEV 7**
 
 ## Main Feature TODO List
 - [X] Tank Generation

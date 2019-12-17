@@ -1,3 +1,14 @@
+12/16/2019 Public DEV 7:
++Tower types (rather than difficulties)
+	+Basic, Sniper, Heavy, Close, Support
+*Towers shoot properly
+*Targets now take damage
+*Health dispensers wait until they're lined up
+*Collisions are shared between tanks
+*Collision conditions are fixed
+*Improve smoke and fire particles
+*Improve handling while at max speed
+
 12/16/2019 Public DEV 6:
 +Health Dispensers
 +Towers with AI
