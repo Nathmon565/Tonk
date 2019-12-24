@@ -1,3 +1,25 @@
+12/24/2019 Public DEV 8:
++Added saved profiles
+	+Located in C:/Users/[user]/AppData/LocalLow/Technically Playable Games/Tonk
+	+Serialized info saved to profile.data, can be moved between computers and deleted
++Added loadouts
+	+Preview loadouts (and their stat changes)
+	+Purchase for sines (§)
+	+Keeps loadouts between sessions
+	+Lil' spinning preview tank with the selected loadout
++Add tree 6
+	+Bouncy weapon
++Added Tower Of Turrets
++Added weapon trees
++Added progressions/research
++Added leveling up
+	+5 sines (§) per level
++Added weapon xp, tank xp, and sines (§)
++Added weapon info (trees and in-game, just right click)
+*Balanced and added towers
+*Fixed control assignment buttons
+*Main menu's a bit different too
+
 12/16/2019 Public DEV 7:
 +Tower types (rather than difficulties)
 	+Basic, Sniper, Heavy, Close, Support
