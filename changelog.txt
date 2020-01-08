@@ -1,3 +1,26 @@
+01/07/2020 Public DEV 9:
+~Full Wipe~
+!Wipes will be administered almost every update.
+!They are done when:
+	!New weapons are added
+	!XP values have changed
+	!Something else similar
+!If you want to keep your progress, send me your profile.
+!I'll update profiles to the newest dev manually if you want.
++Add camera clipping
++Add colors to indicate weapon tiers
++Add tree 7
+	+Dropper weapon
++Overhaul materials and lighting
++Add ability to lock trees behind certain levels
+*Adjusted inventory info screen
+*Adjust shrapnel handling
+*Fix multi-bounce explosion filter
+*Fix hitWithoutY not seeing targets, towers, or health dispensers
+*Fix acceleration inaccuracy
+*Fix average damage
+*Fix wheel sine cost
+
 12/24/2019 Public DEV 8:
 +Added saved profiles
 	+Located in C:/Users/[user]/AppData/LocalLow/Technically Playable Games/Tonk
