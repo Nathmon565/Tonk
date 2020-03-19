@@ -1,3 +1,39 @@
+03/19/2020 Public DEV 10:
+~Full Wipe~
++Add supply crates. 50% to spawn in ToT lobby
+     +Wooden crates. Gives primarily weapons.
+     +Reinforced crates. Gives primarily armor.
+     +Enchanted crates. Gives primarily buffs (not implemented)
++Add weapon rarities
+     +Lower tiers are chosen more often
++Add ToT tower kills stat
++Add tree 8
+     +Airburst
++Add tree 9
+     +Groundbreaker
++Add tree 10
+     +Mortar
+*Overhaul main menu
+*Weapon XP overhaul
+*Fix explosion size
+*Update logo
+*Change friction values
+*Muzzle flash and explosions emit light
+*Adjust inventory scrolling
+*Inventory now sorts by tier
+*Inventory slightly more optimized
+*Fix average damage calculation
+*Overhaul some weapon models
+*Adjust some weapon stats
+*Add partial wipe support for the future
+*Overhaul Tower of Turrets difficulty
+     *Towers now lead their shots
+     *All tower stats reduced drastically
+     *Rate of difficulty increase is now faster
+     *Rewards scale with difficulty
+     *Towers show what class they are
+*Aiming now shows barrel target rotation
+
 01/07/2020 Public DEV 9:
 ~Full Wipe~
 !Wipes will be administered almost every update.
