@@ -1,3 +1,65 @@
+05/27/2020 Public DEV 11:
+~~FULL WIPE~~
++Add sounds
+*Buff Gatling Gun
+*Fix average damage calculation
+*Fix tracking (with the power of rocket science)
+*Fix cursor visibility issues
+*Fix major exploit in Tower of Turrets
+*Reduce enchanted crate light distance
+*Overhaul AI
+     *Tracking has a priority hierarchy, and can target anything
+     *Turrets now only shoot when they have a line of sight
+     *Turrets have a priority hierarchy for targeting
+     *Health dispensers follow the same hierarchy for targeting
+*Overhaul Tower of Turrets
+     *There are now set pre-built levels per floor.
+     *The game randomly distributes objects throughout it
+     *Friendly and hostile turrets and health dispensers can all spawn
+     *Crates can also spawn at set locations at a certain percentage
+     *This should lower the overall difficulty of Tower of Turrets
+     *Health dispensers are now affected by the difficulty modifier
+     *Drastically nerf tower stats
+     *Add difficulty slider before starting (25-400%)
+*Refactor average damage (again)
+     *Now shows average damage of the shot in white
+     *Damage from shrapnel is shown in grey
+     *Ex: 45-60 + 100-200
+     *This should give a better sense of shrapnel inconsistency
+*Certain weapon shrapnels now have a minimum speed (frag grenade)
+*Fix reaching max speed locking up wheels
+*Fix sticky weapon scaling
+*Overhaul the Tank prefab and backend
+*Fix cheesing purchasing loadouts
+*Add spaced armor, turret, and girders
+*Add Braked barrel
+*Add neutral colors
+*Better backend support for more tank parts
+*Tank wheels now have colliders on death
+*Add recoil modifier
+*Add colors to the loadout stats
+*Armor piercing weapons now deal damage to armor as well as health
+*Add new tank equipment
+     *These can be purchased for now
+     *Add spaced turret/chasse/girders
+     *Add braked barrel
+     *Add autocannon
+*A bunch of backend QOL stuff for me (how greedy, I know)
+*Add a vertical field of view slider (60-90)
+*Update wheel physics; there are only 4 wheels.
+*Add anti roll bars
+*Improve bouncy weapon behavior
+*Add another Tower of Turrets room
+*Reduce vertical turret clamp from 45 to 30
+*Invert turning when going backwards
+*Update splash screen
+*Change 'Accuracy' to 'Spread'
+*The version text was moved, and is now always present
+*Reduce equipment prices
+*Fix random weapon selection not selecting a weapon
+*Barrel no longer 'corrects' itself in third person
+-Remove Custom Weapon Support
+
 03/19/2020 Public DEV 10:
 ~Full Wipe~
 +Add supply crates. 50% to spawn in ToT lobby

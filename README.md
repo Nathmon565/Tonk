@@ -10,4 +10,4 @@ If you decide you're willing to try out my garbage game and discover one of the 
 
 ## Changelog
 As always, just check changelog.txt to see the latest version.
-__Current version:__ **Public DEV 10**
+__Current version:__ **Public DEV 11**
