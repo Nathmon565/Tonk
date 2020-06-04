@@ -1,3 +1,18 @@
+06/04/2020 Public DEV 12:
+*Tower of Turrets difficulty properly resets to 100% after a game
+*Fixed the game resetting the profile every time it's launched
+*Implement volume slider functionality. It now works!
+*Add tree 12: Traps
+*Fix certain shrapnel launching at inconsistent speeds
+*Fix various minor weapon bugs
+*Make tree 10 (Mortar) easier to use by making them sticky
+*Shooting dead turrets no longer gives xp
+*Increased all weapon explosion sizes
+*Update/add sounds
+*Add random pitch shifting to certain sounds
+*Friendly fire no longer grants xp
+*Fix version layering
+
 05/27/2020 Public DEV 11:
 ~~FULL WIPE~~
 +Add sounds
